@@ -1,2 +1,2 @@
-Prediction of Solar panel's efficiency with varying properties using machine learning
+Prediction of Photovoltaic Thermal System’s Behavior Using Machine Learning Algorithms
 In collaboration with Mehrdad Ahmadinejad and Mohammad Jabarifar
