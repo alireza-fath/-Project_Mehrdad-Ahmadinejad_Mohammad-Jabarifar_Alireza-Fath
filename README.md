@@ -11,10 +11,17 @@ This project is licensed under the MIT License. See the LICENSE file for details
 This project uses several third-party libraries, each with its own license. Below are the licenses for the libraries used:
 
 Plotly: MIT License
+
 Google Colab: Apache License 2.0
+
 NumPy: BSD License
+
 Matplotlib: BSD License
+
 scikit-learn: BSD License
+
 pandas: BSD License
+
 Keras: MIT License
+
 TensorFlow: Apache License 2.0
